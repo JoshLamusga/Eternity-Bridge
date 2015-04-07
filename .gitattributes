@@ -17,6 +17,8 @@
 *.RTF  diff=astextplain
 
 # Prevents corruption of binary
+*.assets         binary
+*.meta           binary
 *.png            binary
 *.PNG            binary
 *.jpg            binary
