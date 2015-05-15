@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="q3t" tilewidth="32" tileheight="32">
+  <image source="C:/Program Files/Tiled/examples/tmw_desert_spacing.png" width="265" height="199"/>
+ </tileset>
+ <tileset firstgid="49" name="sgt" tilewidth="32" tileheight="32">
+  <image source="C:/Program Files/Tiled/examples/hexmini.png" width="106" height="72"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2E1Lw0AQBuA9B7TXqodWhPoF9v//OzOQIeNqTxt70OeBIU1Noczr7iS9a63db1QPjVGPc90uNc11U2paalfeO811mGu/HKM+lvOnK3/3vyjziD5Py7HPZNfWbA7L+7uu5LGNyCMzqOsj3+v73mewX66VxzYij7oW+te1/4e2rpOfSh7jcn1c6nFm0Z9bH7+jro+6NnK/ypld10wco/+75Tp5bKfmkb3Nvp/b+v9/aQ/bl5LHuMjjpavcm87t+x6Ve1dmMJWjPMZFHudS0e/IJNdHP0PqfpZrJ59H5DGu5pHro3/uyDzqM2LOln2Tx5b6/SqzqfdYuR/lnKl71alcI49xNY86q/u58dzWTI5tzSMrcpHHuHp/lfMjen9qX7M5d69zdnge3FbOj9rb/j4qZ/dz+Xu9z83PymNc5BH9zd9oa48P7evzXp0r8ZljWzOLrOQxLvOInsfvvPV+aerO6xqp+5Z5vp3Xud42qvcrf3cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4H/6BBe7IY4=
+  </data>
+ </layer>
+</map>
